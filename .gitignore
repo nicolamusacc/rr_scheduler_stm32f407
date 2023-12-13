@@ -2,3 +2,5 @@ bin/
 obj/
 
 *.map
+*.DS_Store
+*.vscode
