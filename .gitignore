@@ -1,6 +1,6 @@
 bin/
 obj/
+.vscode/
 
 *.map
-*.DS_Store
-*.vscode
+.DS_Store
